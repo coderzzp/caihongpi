@@ -1,0 +1,39 @@
+body{
+    background: #f0f0f0;
+}
+.pageContainer{
+    display: flex;
+    /* justify-content: center; */
+    /* align-items: center; */
+    height: 100vh;
+    width: 100vw;
+    flex-wrap: wrap;
+    background: #f0f0f0;
+}
+#card{
+    margin: 0 auto;
+}
+.contentArea{
+    width: 100%;
+    padding: 36px;
+}
+.nameSection{
+    width: 100%;
+    min-width: 280px;
+    max-width: 600px;
+}
+.surface{
+    border-radius: 10px;
+}
+.logo{
+    width: 100%;
+}
+.button{
+    width: 100%;
+    padding: 8px 0;
+    text-align: center;
+    background: black;
+    color: white;
+    border-radius: 5px;
+
+}
