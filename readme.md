@@ -6,5 +6,4 @@
 
 
 ---
-彩虹屁来源 
-知乎 微博
+彩虹屁来源 ：https://github.com/juhaodong/CaiHongPi
